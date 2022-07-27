@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SweetAlertDialog</string>
+    
+    <string name="alert_warning">Warning!!</string>
+    <string name="alert_error">Error!!</string>
+    <string name="alert_success">success!!</string>
+
+</resources>
